@@ -1,0 +1,9 @@
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\bin\Debug\netstandard2.0\Acquisti.Core.deps.json
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\bin\Debug\netstandard2.0\Acquisti.Core.dll
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\bin\Debug\netstandard2.0\Acquisti.Core.pdb
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.csproj.AssemblyReference.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.AssemblyInfoInputs.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.AssemblyInfo.cs
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.csproj.CoreCompileInputs.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.dll
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.Core\obj\Debug\netstandard2.0\Acquisti.Core.pdb

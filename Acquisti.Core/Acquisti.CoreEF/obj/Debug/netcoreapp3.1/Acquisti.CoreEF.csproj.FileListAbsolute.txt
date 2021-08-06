@@ -1,0 +1,15 @@
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.CoreEF.deps.json
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.CoreEF.runtimeconfig.json
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.CoreEF.runtimeconfig.dev.json
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.CoreEF.dll
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.CoreEF.pdb
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.Core.dll
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\bin\Debug\netcoreapp3.1\Acquisti.Core.pdb
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.csproj.AssemblyReference.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.AssemblyInfoInputs.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.AssemblyInfo.cs
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.csproj.CoreCompileInputs.cache
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.csproj.CopyComplete
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.dll
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.pdb
+C:\Users\laura.pennetta\Desktop\Academy.TestWeek4\Acquisti.Core\Acquisti.CoreEF\obj\Debug\netcoreapp3.1\Acquisti.CoreEF.genruntimeconfig.cache
